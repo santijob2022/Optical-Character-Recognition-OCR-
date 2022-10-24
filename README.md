@@ -1,8 +1,6 @@
 # Optical-Character-Recognition-OCR-
 
-This is my first project ever using Pyton, I completed this one on April 2022, that time I was starting to learn Object Oriented Programming.
-
-This was my final project for Python 3 Specialization. The code is full from scratch. Unfortunately my file is 666 MB so I cannot upload all the resources I used to make it full working, due to size restrictions.
+This is my final project for Python 3 Specialization. The code is full from scratch. Unfortunately my file is 666 MB so I cannot upload all the resources I used to make it full working due to size restrictions.
 
 So I just added the code files:
 
