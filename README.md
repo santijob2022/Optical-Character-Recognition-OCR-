@@ -1,3 +1,5 @@
+### Currently improving this project, by implementing image processing and another approach using Convolutional Neural Networks, and compare all the approaches.
+
 # Optical-Character-Recognition-OCR-
 
 This is my final project for Python 3 Specialization. The code is full from scratch. Unfortunately my file is 666 MB so I cannot upload all the resources I used to make it full working due to size restrictions.
